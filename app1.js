@@ -54,7 +54,7 @@ function getRndInteger(min, max) {
 }
 
 function changecolor() {
-  let i = Math.floor(Math.random() * 4);
+  let i = Math.floor(Math.random() * 4;
   switch(i) {
     case 1:
       tmp.style.backgroundColor = "green"; 
@@ -66,7 +66,7 @@ function changecolor() {
       tmp.style.backgroundColor = "blue"; 
       break;	  
     default:
-     tmp.style.backgroundColor = "yellow"; 
+     tmp.style.backgroundColor = "black"; 
   } 
   if ( conti == 0 ) { 
     setTimeout(changecolor, getRndInteger(2, 5)); 
