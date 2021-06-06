@@ -1,4 +1,4 @@
-# Hallo PWA (Only a copy please use the original !!!)
+# App (Only a copy please use the original !!!)
 
 Das klassische "Hello World" program als "Progressive Web App"
 
