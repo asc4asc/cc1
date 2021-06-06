@@ -1,6 +1,6 @@
 # App (Only a copy please use the original !!!)
 
-Das klassische "Hello World" program als "Progressive Web App"
+Program als "Progressive Web App"
 
 Ich habe eine App. hinzugefügt.
 
